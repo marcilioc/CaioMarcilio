@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Python automations
 - 📫 How to reach me:<br />
 LinkedIn: https://www.linkedin.com/in/caio-marcilio-4abb57136/<br />
-Facebook: Caio Marcilio<br />
 e-mail: caiomds2912@outlook.com<br />
 
 <!---
