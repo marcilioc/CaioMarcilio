@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaioMarcilio
-- 👀 I’m interested in Python, web developing and automations
+- 👀 I’m interested in Python web developing and automations
 - 🌱 I’m currently learning Javascript, SQL and Flask
 - 💞️ I’m looking to collaborate on Python automations
 - 📫 How to reach me:<br />
