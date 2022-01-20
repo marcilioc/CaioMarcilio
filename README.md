@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaioMarcilio
 - 👀 I’m interested in Python web developing and automations
-- 🌱 I’m currently learning Javascript, SQL and Flask
+- 🌱 I’m currently learning Javascript and SQL
 - 💞️ I’m looking to collaborate on Python automations
 - 📫 How to reach me:<br />
 LinkedIn: https://www.linkedin.com/in/caio-marcilio-4abb57136/<br />
