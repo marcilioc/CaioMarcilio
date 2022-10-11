@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaioMarcilio
-- 👀 I’m interested in Python web developing and automations
-- 🌱 I’m currently learning Javascript and SQL
-- 💞️ I’m looking to collaborate on Python automations
+- 👀 I’m interested in web development, automation and front-end
+- 🌱 I’m currently learning HTML5, CSS3 and delving into Javascript
+- 💞️ I’m looking to collaborate on Python automations and frontend developments
 - 📫 How to reach me:<br />
 LinkedIn: https://www.linkedin.com/in/caio-marcilio-4abb57136/<br />
 e-mail: caiomds2912@outlook.com<br />
