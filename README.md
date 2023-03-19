@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaioMarcilio
-- 👀 I’m interested in web development, automation and front-end
-- 🌱 I’m currently learning HTML5, CSS3 and delving into Javascript
+- 👀 I’m interested in web development and proccess automation
+- 🌱 I’m currently delving into advanced Javascript
 - 💞️ I’m looking to collaborate on Python automations and frontend developments
 - 📫 How to reach me:<br />
 LinkedIn: https://www.linkedin.com/in/caio-marcilio-4abb57136/<br />
